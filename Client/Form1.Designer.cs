@@ -62,7 +62,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 3;
-            this.textBox3.Text = "0xF12319";
+            this.textBox3.Text = "FF 15 45 78 B4";
             // 
             // button1
             // 
