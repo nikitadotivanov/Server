@@ -69,38 +69,7 @@ namespace Client
             {
                 byte value = Convert.ToByte(hexValuesSplit[j], 16);
                 dataByte[i] = value;
-                //if (dataString[j] == '0')
-                //    dataByte[i] = 0;
-                //else if (dataString[j] == '1')
-                //    dataByte[i] = 1;
-                //else if (dataString[j] == '2')
-                //    dataByte[i] = 2;
-                //else if (dataString[j] == '3')
-                //    dataByte[i] = 3;
-                //else if (dataString[j] == '4')
-                //    dataByte[i] = 4;
-                //else if (dataString[j] == '5')
-                //    dataByte[i] = 5;
-                //else if (dataString[j] == '6')
-                //    dataByte[i] = 6;
-                //else if (dataString[j] == '7')
-                //    dataByte[i] = 7;
-                //else if (dataString[j] == '8')
-                //    dataByte[i] = 8;
-                //else if (dataString[j] == '9')
-                //    dataByte[i] = 9;
-                //else if (dataString[j] == 'A')
-                //    dataByte[i] = 10;
-                //else if (dataString[j] == 'B')
-                //    dataByte[i] = 11;
-                //else if (dataString[j] == 'C')
-                //    dataByte[i] = 12;
-                //else if (dataString[j] == 'D')
-                //    dataByte[i] = 13;
-                //else if (dataString[j] == 'E')
-                //    dataByte[i] = 14;
-                //else if (dataString[j] == 'F')
-                //    dataByte[i] = 15;
+                
                 j++;
             }
             bool OUT = false;
